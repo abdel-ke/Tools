@@ -1,0 +1,23 @@
+<-----------Basic syntax---------->
+data		:	The data section is used for declaring initialized data or constants;
+	declaring =>	section.data
+bss, and	:	The bss section is used for declaring variables
+	declaring =>	section.bss
+text		:	like main
+	declaring =>	section.text
+   						global _start
+					_start:
+==================================================Assembly Language Statements =====================================================
+
+MOV		move data from one location to another
+ADD		add two values
+SUB		subtract a value from another value
+PUSH 	push data onto a stack
+POP		pop data from a stack
+JMP		jump to another location
+INT		interrupt a process
+MSG		show a message
+
+mov a, 3
+mov b, 5
+add a, b, c
