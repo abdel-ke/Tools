@@ -1,3 +1,0 @@
-ZSH_THEME="powerlevel10k/powerlevel10k"
-
-alias code="/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"
