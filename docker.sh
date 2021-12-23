@@ -1,6 +1,6 @@
 #!/bin/sh
-#brew uninstall docker -y
-#brew uninstall docker-machine -y
+#brew uninstall docker
+#brew uninstall docker-machine
 rm -rf ~/.brew
 rm -rf /goinfre/abdel-ke/.brew
 rm -rf /goinfre/abdel-ke/virtualbox
